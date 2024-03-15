@@ -1,0 +1,32 @@
+https://answers.microsoft.com/en-us/windows/forum/all/why-are-my-desktop-files-located-in-a-onedrive/9c618093-b999-4da1-a931-02a0098ed244
+
+1
+In File Explorer, go into your user folder in C:\Users
+
+if there is not a Desktop folder, right click in there, and create a new folder and name it Desktop
+
+Close File Explorer
+
+2
+Click your Start Button, type regedit and hit Enter to open the Registry Editor.
+
+Click View and make sure 'Address Bar' is turned on.
+
+Paste this into the Address Bar at the top and hit Enter.
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+
+3
+In the right hand pane, double click Desktop, set its Value Data to this and click OK
+
+%USERPROFILE%\Desktop
+
+4
+In the right hand pane, if {754AC886-DF64-4CBA-86B5-F7FBF4FBCEF5} exists, set its Value Data to this and click OK
+
+%USERPROFILE%\Desktop
+
+5
+Close the Registry Editor, then Restart (not shut down) your PC
+
+To tidy up, you will need to move any files that should be on your Desktop from the Desktop folder in the OneDrive folder into that Desktop folder in your user profile
