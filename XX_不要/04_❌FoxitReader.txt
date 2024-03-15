@@ -1,0 +1,3 @@
+	; 需要关闭｢Foxit Reader/PhantomPDF has been opened by the following app without an valid signature｣
+
+	否则从AutoHotkey 打开会提醒
