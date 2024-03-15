@@ -1,0 +1,23 @@
+# Login
+
+# 显示Bookmark Bar
+
+# 字体设置
+	不允许页面自选字体
+
+# 下载文件夹
+
+# 保持Last Tab
+
+# 安装插件
+- Pocket 
+	及其快捷键
+
+# Pin
+- Gmail
+
+- TickTick 
+
+
+# ✨Ctrl+Tab cycles through tabs in recently used order
+	↑去掉
