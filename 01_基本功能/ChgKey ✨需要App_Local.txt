@@ -1,0 +1,13 @@
+# Import Config
+	
+
+# Manual Config
+	変換･無変換	⇒LCtrl
+	CapsLock	⇒F13
+	左边配置成Ctrl, Alt, Ctrl 
+
+
+# ❌Spectre 
+	Home⇒Backspace
+	PageUp/PageDown⇒Enter
+	Endy⇒Shift
