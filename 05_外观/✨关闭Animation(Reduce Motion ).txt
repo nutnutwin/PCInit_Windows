@@ -1,0 +1,5 @@
+View advanced system settings
+┗Performance 
+┗保留
+	｢Smooth edges of screen fonts｣
+	｢Smooth-scroll list boxes｣
