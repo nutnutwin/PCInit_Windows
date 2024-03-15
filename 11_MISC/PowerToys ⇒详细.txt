@@ -1,0 +1,24 @@
+- Always On Top
+	⇒OFF 
+
+- Awake 
+	⇒OFF 
+
+
+- Color Picker
+	⇒OFF 
+
+
+- Keyboard Manager 
+	⇒OFF 
+
+- Paste As Plain Text 
+	⇒OFF 
+
+- Peek
+	⇒OFF 
+	Ctrl+Space
+
+- PowerToys Run 
+
+- Resize ON
