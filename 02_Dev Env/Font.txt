@@ -1,0 +1,8 @@
+- LXGW Wenkai
+	✨[20220604_Sat] v1.235.2
+- HanaMin
+- Noto
+- Sarasa
+	✨要用稳定版
+	｢sarasa-gothic-ttc-0.14.2｣
+
