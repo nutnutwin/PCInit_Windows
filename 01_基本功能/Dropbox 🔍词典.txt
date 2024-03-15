@@ -1,0 +1,16 @@
+- 下载安装
+	✨安装到C盘下, 保持各个设备Path一致
+
+- 登录账号
+	下载完成才有文档
+
+
+- [20210901_Wed] DesktopAMD 同步问题一直Index 结束不了
+	重装无效, 设置成Starts Online(不Local)
+	设置Memo, Inbox, App 为Local 
+
+- 太大文件夹在小存储设备上不要同步
+	
+
+- ❌设置截图文件夹
+	用FastStone

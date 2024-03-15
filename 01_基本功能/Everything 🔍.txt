@@ -1,0 +1,11 @@
+# 安装版
+	Add Service
+	
+# 启动产生Everything.ini
+
+# 关闭
+
+# 导入设置
+	C:\Users\nutnu\AppData\Roaming\Everything\
+
+# 重启
