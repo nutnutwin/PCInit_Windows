@@ -1,0 +1,8 @@
+# 设置触摸板
+	设置成Precision
+	
+	How to enable a Precision Touchpad for more gestures on your laptop.txt｣
+
+# 设置3-Fingers, 4-Fingers
+
+# 调低敏感度
