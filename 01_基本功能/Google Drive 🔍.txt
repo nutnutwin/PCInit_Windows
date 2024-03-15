@@ -1,0 +1,14 @@
+<!-- ✨安装在C盘 -->
+[20221119_Sat] 
+
+- 用Stream 模式(可以一部分Offline )
+
+- 安装在G:
+
+- BackupLaunchPad 还未上传的部分要Keep Local
+
+# Keep Local
+- App_Shared 
+
+- ｢SInbox ｣
+	[20240204_Sun] 否则预览很慢

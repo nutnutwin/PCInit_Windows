@@ -1,0 +1,9 @@
+- Overlay
+	⇒Memo
+
+- Path 
+	C:\Program Files\Git\usr\bin\grep.exe
+
+- Menu Item 
+
+- Font 

@@ -1,0 +1,10 @@
+# System Installer
+- ｢Add "Open with Code"｣
+
+# Sync
+
+
+# 从文件安装AutoHotkey Manager 
+	用来Run, Stop, Kill...
+
+# CDict , JDict 默认打开方式设置为VSCode 
