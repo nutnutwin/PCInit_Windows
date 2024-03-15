@@ -1,0 +1,8 @@
+- 要用安装版
+
+- 运行WeaselSetup.exe
+
+- 指定WeaselData 为目标文件夹
+	C:\App_Local\WeaselData\
+
+
