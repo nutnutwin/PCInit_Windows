@@ -1,0 +1,10 @@
+Screen
+	When plugged in, turn off after 
+	｢30 minutes｣
+	
+Sleep
+	When plugged in, PC goes to sleep after
+	｢Never｣
+	
+Performance and Energy
+	｢Power mode: Best performance｣
