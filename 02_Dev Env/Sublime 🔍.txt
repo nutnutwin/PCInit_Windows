@@ -1,13 +1,19 @@
+# 设定
 - 关联md
 
 - 设置字体, 字号
-	产生设置文件
+	"font_size": 17,
+	⇒产生设置文件
+
 
 - 恢复设置
+	从Export 的
+	> Preferences.sublime-settings
 
+# Package 
 - 手动按照Package Control
-	※公司里要下载按照
+	※公司里要下载安装
 
-- 按照Trimmer
+- ❓安装Trimmer
 	+F6	删除空行
 
