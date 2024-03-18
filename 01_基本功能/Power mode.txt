@@ -1,0 +1,4 @@
+Settings 
+┗Power 
+┗Power mode
+	｢Best Performance ｣
