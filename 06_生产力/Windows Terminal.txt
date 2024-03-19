@@ -1,0 +1,8 @@
+# 字体
+	Weight 
+
+
+# Default terminal application
+
+# New instance behavior
+	｢Attach to the most recently used window｣
