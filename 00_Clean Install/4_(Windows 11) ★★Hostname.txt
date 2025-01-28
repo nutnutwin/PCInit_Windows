@@ -1,0 +1,5 @@
+开始按钮右单击
+┗System
+┗Rename this Computer 
+
+⇒｢++HowTo_★Change Hostname With CMD (图形界面｢_｣不能用)｣
