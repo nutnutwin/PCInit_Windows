@@ -1,3 +1,18 @@
+# 〜[202507] 
 Accessibility 
 ┗Keyboard 
 ┗｢Use the Print screen key to open screen capture｣
+
+
+# [202508] 
+### Snipping Tools 也要设置不保存为图片
+
+### OneDrive 
+
+```
+Right-click the OneDrive icon in your system tray (bottom-right corner).
+
+Go to Settings > Backup tab.
+
+Under Screenshots, uncheck: ✅ Automatically save screenshots I capture to OneDrive
+```
