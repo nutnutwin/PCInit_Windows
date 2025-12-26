@@ -9,4 +9,4 @@ Mail Navigation preferences Set the "Advance to next unread message in [x] folde
 	Enter 2- will set: Never go to the next folder with unread messages 
 
 
-> mailnews.nav_crosses_folders
+> mailnews.nav_crosses_folders	2
