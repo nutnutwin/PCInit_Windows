@@ -1,0 +1,12 @@
+Tag 名字必须一致否则无法同步
+
+C:\Users\nutnu\AppData\Roaming\Thunderbird\Profiles\r07eg0kh.default-release\prefs.js
+
+user_pref("mailnews.tags.$label1.color", "#ff0000");
+user_pref("mailnews.tags.$label1.tag", "1_MustDo");
+user_pref("mailnews.tags.$label2.color", "#ff9900");
+user_pref("mailnews.tags.$label2.tag", "2_Pend");
+user_pref("mailnews.tags.$label3.color", "#0000ff");
+user_pref("mailnews.tags.$label3.tag", "3_Info");
+user_pref("mailnews.tags.$label4.color", "#00ff00");
+user_pref("mailnews.tags.$label4.tag", "4_OK");
