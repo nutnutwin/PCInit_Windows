@@ -1,0 +1,12 @@
+What ever you would like can be set up: via 'Menu Bar': 'Tools' > 'Options' > 'Advanced' > 'General' tab OR via 'Mail Toolbar' : 'Menu icon' > 'Options' > 'Options' > 'Advanced' > 'General' tab
+
+In search type: nav_ look for this line: mailnews.nav_crosses_folders default value = 1 Double click on that line to get an 'Enter integer value' pop up window. Enter the appropriate value depending upon what behaviour you require.
+
+Mail Navigation preferences Set the "Advance to next unread message in [x] folder" behavior
+
+	Enter 0 - will set: Always go to the next folder without prompting
+	Enter 1 - will set: Ask before going (the default behaviour)
+	Enter 2- will set: Never go to the next folder with unread messages 
+
+
+> mailnews.nav_crosses_folders

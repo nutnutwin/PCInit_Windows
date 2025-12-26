@@ -1,0 +1,23 @@
+{
+    "i": "cmd:cmd_previousMsg",
+    "k": "cmd:cmd_nextMsg",
+
+    "w": "cmd:cmd_previousMsg",
+    "s": "cmd:cmd_nextMsg",
+
+    "o": "cmd:cmd_openMessage",
+    "f": "cmd:cmd_forward",
+    "d": "cmd:cmd_delete",
+    "ctrl+r": "cmd:cmd_reply",
+    "r": "cmd:cmd_replyall",
+    "a": "cmd:cmd_archive",
+    "ctrl+n": "func:MsgNewMessage",
+    "u": "cmd:cmd_toggleRead",
+
+    "j": "unset", 
+    "ctrl+s": "cmd:cmd_toggleQuickFilterBar", 
+    "alt+shift+f": "cmd:cmd_displayMsgFilters",
+    "ctrl+g": "cmd:cmd_search"
+
+
+}

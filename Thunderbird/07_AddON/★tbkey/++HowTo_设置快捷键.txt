@@ -1,0 +1,9 @@
+https://github.com/wshanks/tbkeys
+
+
+- 快捷键一览
+https://hg.mozilla.org/comm-central/file/tip/mail/base/content/mainCommandSet.inc.xhtml
+
+
+cmd_toggleRead
+↑整理
