@@ -1,0 +1,8 @@
+# 换行设置1
+	Preferences -> Advanced -> General -> Config Editor
+	Set the preference called "mail.wrap_long_lines" to false
+
+# 换行设置2
+	mailnews.wraplength
+
+	设置成极大值
